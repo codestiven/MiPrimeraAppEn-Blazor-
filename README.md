@@ -17,27 +17,6 @@ La aplicación está diseñada para demostrar los conceptos básicos de Blazor y
 - **API de Clima (servicio de terceros)**
 - **Bootstrap (para estilos y diseño)**
 
-## Instalación
-
-Para ejecutar esta aplicación localmente, sigue los siguientes pasos:
-
-1. Clona este repositorio en tu máquina local.
-    ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
-    ```
-2. Navega al directorio del proyecto.
-    ```bash
-    cd tu-repositorio
-    ```
-3. Restaura las dependencias del proyecto.
-    ```bash
-    dotnet restore
-    ```
-4. Ejecuta la aplicación.
-    ```bash
-    dotnet run
-    ```
-
 ## Uso
 
 - Navega a `http://localhost:5000` en tu navegador web para ver la aplicación en acción.
